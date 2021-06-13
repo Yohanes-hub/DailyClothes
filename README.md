@@ -1,5 +1,4 @@
-# flutternotebook5th
-
+# Daily Clothes App
 A new Flutter application.
 
 ## Getting Started
